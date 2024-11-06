@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'includes/details.php';
-  	  $page = "Contact Us";
+  	  $page = "Gallery";
   ?>
 
 <head>
@@ -39,6 +39,18 @@
 
 
   <main class="main">
+    <!-- Page Title -->
+    <div class="page-title">
+      
+      <nav class="breadcrumbs">
+        <div class="container">
+          <ol>
+            <li><a href="/">Home</a></li>
+            <li class="current"><?php echo "$page"; ?></li>
+          </ol>
+        </div>
+      </nav>
+    </div><!-- End Page Title -->
     <!-- Contact Section -->
     <section id="contact" class="contact section">
 
