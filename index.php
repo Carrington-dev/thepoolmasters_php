@@ -137,7 +137,8 @@
           <div class="col-xl-10">
             <div class="text-center">
               <h3>In an emergency? Need help now?</h3>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p>Get in Touch For Your Pool Installation, Pool Repair
+              & Pool Maintenance Requirements</p>
               <a class="cta-btn" href="#appointment">Make an Appointment</a>
             </div>
           </div>
@@ -152,7 +153,8 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>About Us<br></h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>
+        We offer high quality pool Installation and maintenance solutions.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -188,57 +190,60 @@
     </section><!-- /About Section -->
 
     <!-- Stats Section -->
-    <section id="stats" class="stats section">
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center w-100 h-100">
-              <i class="fas fa-user-md flex-shrink-0"></i>
-              <div>
-                <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Doctors</p>
+  
+      <section id="stats" class="stats section">
+  
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+  
+          <div class="row gy-4">
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center w-100 h-100">
+                <i class="fas fa-user-md flex-shrink-0"></i>
+                <div>
+                  <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
+                  <p>Employees</p>
+                </div>
               </div>
-            </div>
-          </div><!-- End Stats Item -->
-
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center w-100 h-100">
-              <i class="far fa-hospital flex-shrink-0"></i>
-              <div>
-                <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Departments</p>
+            </div><!-- End Stats Item -->
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center w-100 h-100">
+                <i class="far fa-hospital flex-shrink-0"></i>
+                <div>
+                  <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+                  <p>Departments</p>
+                </div>
               </div>
-            </div>
-          </div><!-- End Stats Item -->
-
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center w-100 h-100">
-              <i class="fas fa-flask flex-shrink-0"></i>
-              <div>
-                <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Research Labs</p>
+            </div><!-- End Stats Item -->
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center w-100 h-100">
+                <i class="fas fa-flask flex-shrink-0"></i>
+                <div>
+                  <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="1" class="purecounter"></span>
+                  <p>Pool Shop Partners</p>
+                </div>
               </div>
-            </div>
-          </div><!-- End Stats Item -->
-
-          <div class="col-lg-3 col-md-6">
-            <div class="stats-item d-flex align-items-center w-100 h-100">
-              <i class="fas fa-award flex-shrink-0"></i>
-              <div>
-                <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
-                <p>Awards</p>
+            </div><!-- End Stats Item -->
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center w-100 h-100">
+                <i class="fas fa-award flex-shrink-0"></i>
+                <div>
+                  <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
+                  <p>Clients</p>
+                </div>
               </div>
-            </div>
-          </div><!-- End Stats Item -->
-
+            </div><!-- End Stats Item -->
+  
+          </div>
+  
         </div>
-
-      </div>
-
-    </section><!-- /Stats Section -->
+  
+      </section>
+     
+    <!-- /Stats Section -->
 
     <!-- Features Section -->
     <section id="features" class="features section">
@@ -297,7 +302,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>We offer a wide range of pool services and construction services</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -310,9 +315,13 @@
                 <i class="fas fa-heartbeat"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Nesciunt Mete</h3>
+                <h3>Pool Cleaning Services
+                </h3>
               </a>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
+              <p>
+                 Regular pool cleaning and chemical balancing is essential if you want to enjoy a clean and healthy swimming pool.
+
+              </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -322,9 +331,13 @@
                 <i class="fas fa-pills"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Eosle Commodi</h3>
+                <h3>Pool Lighting
+                </h3>
               </a>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
+              <p>
+                
+                New Led Lights, New Suction and return Lines, New weir replacement, Pump & Filter replacements, New coping, Water features, Chlorinators
+              </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -334,9 +347,12 @@
                 <i class="fas fa-hospital-user"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Ledo Markt</h3>
+                <h3>Pool Maintenance
+                </h3>
               </a>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
+              <p>
+                Having a swimming pool requires maintenance and upkeep. If you don’t have time to do it yourself, one of our trusted swimming pool professionals will assist you.
+                </p>
             </div>
           </div><!-- End Service Item -->
 
@@ -346,9 +362,12 @@
                 <i class="fas fa-dna"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Asperiores Commodit</h3>
+                <h3>Fibre Lining
+                </h3>
               </a>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
+              <p>
+              Gunite Pools, Marbelite Pools, Existing Fibre Pools, Koi ponds, Any pool surface that is damaged or leaks, Reduction of larger pools & completing with Fibre Lining
+              </p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -359,9 +378,12 @@
                 <i class="fas fa-wheelchair"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Velit Doloremque</h3>
+                <h3>Plumbing</h3>
               </a>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
+              <p>
+
+              <?php echo "$company"; ?> is equipped to meet all your plumbing needs. We provide the highest quality services at competitive prices with prompt, professional and friendly service.
+              </p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -372,9 +394,12 @@
                 <i class="fas fa-notes-medical"></i>
               </div>
               <a href="#" class="stretched-link">
-                <h3>Dolori Architecto</h3>
+                <h3>Painting</h3>
               </a>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
+              <p>
+                
+                Painting of your steel palisades, gates, doors, decks, thatch timber, garage doors, window frames, galvanized gutters and down pipes, etc. makes it rust/corrosion and your wood
+                </p>
               <a href="#" class="stretched-link"></a>
             </div>
           </div><!-- End Service Item -->
@@ -391,7 +416,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>MAKE AN APPOINTMENT</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Pool repairs and Renovations Randburg, Pretoria, Centurion and Johannesburg, call us now, we'll be quick to answer</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -755,7 +780,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Gallery</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>View a wide range of services we offer and feel free to contact us with your own style and we will deliver everything on point.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -841,7 +866,7 @@
                 <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
                   <i class="bi bi-telephone"></i>
                   <h3>Call Us</h3>
-                  <p>+1 5589 55488 55</p>
+                  <p><?php echo "$tel"; ?></p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -849,7 +874,7 @@
                 <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
                   <i class="bi bi-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@example.com</p>
+                  <p><?php echo "$email"; ?></p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -896,87 +921,8 @@
 
   </main>
 
-  <footer id="footer" class="footer light-background">
+  <?php include 'includes/footer.php';?>
 
-    <div class="container footer-top">
-      <div class="row gy-4">
-        <div class="col-lg-4 col-md-6 footer-about">
-          <a href="index.php" class="logo d-flex align-items-center">
-            <span class="sitename"><?php echo "$company"; ?></span>
-          </a>
-          <div class="footer-contact pt-3">
-            <p>A108 Adam Street</p>
-            <p>New York, NY 535022</p>
-            <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-            <p><strong>Email:</strong> <span>info@example.com</span></p>
-          </div>
-          <div class="social-links d-flex mt-4">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-          </div>
-        </div>
-
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Useful Links</h4>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About us</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Our Services</h4>
-          <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Hic solutasetp</h4>
-          <ul>
-            <li><a href="#">Molestiae accusamus iure</a></li>
-            <li><a href="#">Excepturi dignissimos</a></li>
-            <li><a href="#">Suscipit distinctio</a></li>
-            <li><a href="#">Dilecta</a></li>
-            <li><a href="#">Sit quas consectetur</a></li>
-          </ul>
-        </div>
-
-        <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Nobis illum</h4>
-          <ul>
-            <li><a href="#">Ipsam</a></li>
-            <li><a href="#">Laudantium dolorum</a></li>
-            <li><a href="#">Dinera</a></li>
-            <li><a href="#">Trodelas</a></li>
-            <li><a href="#">Flexo</a></li>
-          </ul>
-        </div>
-
-      </div>
-    </div>
-
-    <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename"><?php echo "$company"; ?></strong> <span>All Rights Reserved</span></p>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you've purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-
-  </footer>
 
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

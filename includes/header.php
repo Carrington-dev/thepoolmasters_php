@@ -25,7 +25,7 @@
         <li><a href="#hero" class="active">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#services">Services</a></li>
-        <li><a href="#departments">Portfolio</a></li>
+        <li><a href="#gallery">Portfolio</a></li>
         <!-- <li><a href="#doctors">Doctors</a></li> -->
         
         <li><a href="#contact">Contact</a></li>
