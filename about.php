@@ -51,89 +51,168 @@
         </div>
       </nav>
     </div><!-- End Page Title -->
-    <!-- Contact Section -->
-    <section id="contact" class="contact section">
+    
+    
+    <!-- Featured Services Section -->
+    <section id="featured-services" class="featured-services section">
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
-
-      <div class="mb-5" data-aos="fade-up" data-aos-delay="200">
-        <iframe style="border:0; width: 100%; height: 370px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-      </div><!-- End Google Maps -->
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+      <div class="container">
 
         <div class="row gy-4">
-          <div class="col-lg-6 ">
-            <div class="row gy-4">
 
-              <div class="col-lg-12">
-                <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
-                  <i class="bi bi-geo-alt"></i>
-                  <h3>Address</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="col-md-6">
-                <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
-                  <i class="bi bi-telephone"></i>
-                  <h3>Call Us</h3>
-                  <p><?php echo "$tel"; ?></p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="col-md-6">
-                <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
-                  <i class="bi bi-envelope"></i>
-                  <h3>Email Us</h3>
-                  <p><?php echo "$email"; ?></p>
-                </div>
-              </div><!-- End Info Item -->
-
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="fas fa-heartbeat icon"></i></div>
+              <h4><a href="" class="stretched-link">Our Focus</a></h4>
+              <p>Our focus is on Building, Renovating, Repairing and maintaining swimming pools.  </p>
             </div>
-          </div>
+          </div><!-- End Service Item -->
 
-          <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="500">
-              <div class="row gy-4">
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="fas fa-pills icon"></i></div>
+              <h4><a href="" class="stretched-link">Many years in this game</a></h4>
+              <p>With over 10 years of experience, we offer reliable services in Pretoria and Johannesburg meeting our client’s expectations.</p>
+            </div>
+          </div><!-- End Service Item -->
 
-                <div class="col-md-6">
-                  <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
-                </div>
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="fas fa-thermometer icon"></i></div>
+              <h4><a href="" class="stretched-link">Bring you joy</a></h4>
+              <p>We provide a much-needed escape from the heat and a welcome means of refreshment for hundreds of families in and around the Gauteng and Limpopo area.</p>
+            </div>
+          </div><!-- End Service Item -->
 
-                <div class="col-md-6 ">
-                  <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
-                </div>
-
-                <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
-                </div>
-
-                <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="4" placeholder="Message" required=""></textarea>
-                </div>
-
-                <div class="col-md-12 text-center">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
-
-                  <button type="submit">Send Message</button>
-                </div>
-
-              </div>
-            </form>
-          </div><!-- End Contact Form -->
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon"><i class="fas fa-dna icon"></i></div>
+              <h4><a href="" class="stretched-link">Our Goals</a></h4>
+              <p>With a hands-on approach we aim to make sure that it’s a satisfied overall customer experience.</p>
+            </div>
+          </div><!-- End Service Item -->
 
         </div>
 
       </div>
 
-    </section><!-- /Contact Section -->
+    </section><!-- /Featured Services Section -->
+
+    <!-- Call To Action Section -->
+    <section id="call-to-action" class="call-to-action section accent-background">
+
+      <div class="container">
+        <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-xl-10">
+            <div class="text-center">
+              <h3>In an emergency? Need help now?</h3>
+              <p>Get in Touch For Your Pool Installation, Pool Repair
+              & Pool Maintenance Requirements</p>
+              <a class="cta-btn" href="#appointment">Make an Appointment</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- /Call To Action Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>About Us<br></h2>
+        <p>
+        We offer high quality pool Installation and maintenance solutions.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+          <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
+          </div>
+          <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
+            <h3>Home of Quality and Excellent Workmanship.
+            Professional local pool installations.</h3>
+            <p class="fst-italic">
+              Pool Masters is a company which offer all your construction needs at the best prices. We believe that renovations is important to increase the lifestyle and the value of your home.
+
+
+            </p>
+            <ul>
+              <li><i class="bi bi-check2-all"></i> <span>Pool repairs and Renovations Randburg, Pretoria, Centurion and Johannesburg
+              </span></li>
+              <li><i class="bi bi-check2-all"></i> <span>We offer high quality pool Installation and maintenance solutions.</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>We offer wide range of other products and services to enhance your swimming and leisure experience from pool heat pumps and complete solar heating systems..</span></li>
+            </ul>
+            <p>We renovate in greater depth, concrete and Fibreglass pools, Spas as well as fishponds. Enhance the beauty and functionality of your backyard oasis with our pool renovation services in Pretoria and Centurion areas
+
+
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /About Section -->
+
+    <!-- Stats Section -->
+  
+      <section id="stats" class="stats section">
+  
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+  
+          <div class="row gy-4">
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center w-100 h-100">
+                <i class="fas fa-user-md flex-shrink-0"></i>
+                <div>
+                  <span data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="purecounter"></span>
+                  <p>Employees</p>
+                </div>
+              </div>
+            </div><!-- End Stats Item -->
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center w-100 h-100">
+                <i class="far fa-hospital flex-shrink-0"></i>
+                <div>
+                  <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+                  <p>Departments</p>
+                </div>
+              </div>
+            </div><!-- End Stats Item -->
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center w-100 h-100">
+                <i class="fas fa-flask flex-shrink-0"></i>
+                <div>
+                  <span data-purecounter-start="0" data-purecounter-end="8" data-purecounter-duration="1" class="purecounter"></span>
+                  <p>Pool Shop Partners</p>
+                </div>
+              </div>
+            </div><!-- End Stats Item -->
+  
+            <div class="col-lg-3 col-md-6">
+              <div class="stats-item d-flex align-items-center w-100 h-100">
+                <i class="fas fa-award flex-shrink-0"></i>
+                <div>
+                  <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
+                  <p>Clients</p>
+                </div>
+              </div>
+            </div><!-- End Stats Item -->
+  
+          </div>
+  
+        </div>
+  
+      </section>
+     
+    <!-- /Stats Section -->
 
   </main>
 
