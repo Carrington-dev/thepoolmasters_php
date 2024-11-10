@@ -33,16 +33,16 @@
         <div class="col-lg-2 col-md-3 footer-links">
           <h4>Our Services</h4>
           <ul>
-            <li><a href="#">Web Design</a></li>
-            <li><a href="#">Web Development</a></li>
-            <li><a href="#">Product Management</a></li>
-            <li><a href="#">Marketing</a></li>
-            <li><a href="#">Graphic Design</a></li>
+            <li><a href="#">Pool construction</a></li>
+            <li><a href="#">Pool cleaning</a></li>
+            <li><a href="#">Pool renovation</a></li>
+            <li><a href="#">Pool chemicals</a></li>
+            <li><a href="#">Pool Design</a></li>
           </ul>
         </div>
 
         <div class="col-lg-2 col-md-3 footer-links">
-          <h4>Hic solutasetp</h4>
+          <h4>More Services</h4>
           <ul>
             <li><a href="#">Molestiae accusamus iure</a></li>
             <li><a href="#">Excepturi dignissimos</a></li>

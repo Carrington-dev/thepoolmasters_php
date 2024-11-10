@@ -57,7 +57,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Need any help with pool services within Gauteng, contact us now for more help...</p>
       </div><!-- End Section Title -->
 
       <div class="mb-5" data-aos="fade-up" data-aos-delay="200">
