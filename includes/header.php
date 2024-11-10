@@ -15,9 +15,9 @@
 
   <div class="container position-relative d-flex align-items-center justify-content-end">
     <a href="/" class="logo d-flex align-items-center me-auto">
-      <!-- <img src="assets/img/logo.png" alt=""> -->
+      <img src="assets/img/logo.png" alt="">
       <!-- Uncomment the line below if you also wish to use a text logo -->
-      <h1 class="sitename"><?php echo "$company"; ?></h1> 
+      <!-- <h1 class="sitename"><?php echo "$company"; ?></h1>  -->
     </a>
 
     <nav id="navmenu" class="navmenu">
@@ -33,7 +33,7 @@
       <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
     </nav>
 
-    <a class="cta-btn" href="index.php#appointment">Make an Appointment</a>
+    <a class="cta-btn" href="contact.php#appointment">Book Now</a>
 
   </div>
 
