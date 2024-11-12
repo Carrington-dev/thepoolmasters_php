@@ -139,7 +139,7 @@
               <h3>In an emergency? Need help now?</h3>
               <p>Get in Touch For Your Pool Installation, Pool Repair
               & Pool Maintenance Requirements</p>
-              <a class="cta-btn" href="#appointment">Make an Appointment</a>
+              <a class="cta-btn" href="#appointment">Book Us Now</a>
             </div>
           </div>
         </div>
