@@ -1,7 +1,6 @@
 <header id="header" class="header sticky-top">
 
-<?php 
-/*
+
 <div class="topbar d-flex align-items-center">
   <div class="container d-flex justify-content-center justify-content-md-between">
     <div class="d-none d-md-flex align-items-center">
@@ -12,8 +11,7 @@
     </div>
   </div>
 </div><!-- End Top Bar -->
-*/
-?>
+
 
 <div class="branding d-flex align-items-center">
 
