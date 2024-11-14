@@ -1,5 +1,5 @@
 <?php 
-  $company = "The Pool Masters";
+  $company = "Bravo Pool Care";
   $page = "About";
   $tel = "+27 79 800 5807";
 //   $tel = "+27 61 431 9286";

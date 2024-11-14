@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'includes/details.php';
-  	  $page = "Contact Us";
+  	  $page = "About Us";
   ?>
 
 <head>
